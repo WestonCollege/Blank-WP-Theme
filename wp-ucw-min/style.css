@@ -26,6 +26,73 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .skip-link{left:-9999rem;top:2.5rem;z-index:999999999;text-decoration:underline}
 .skip-link:focus{display:block;left:6px;top:7px;font-size:14px;font-weight:600;text-decoration:none;line-height:normal;padding:15px 23px 14px;z-index:100000;right:auto}
 .visually-hidden:not(:focus):not(:active), .form-allowed-tags:not(:focus):not(:active){position:absolute !important;height:1px;width:1px;overflow:hidden;clip:rect(1px 1px 1px 1px);clip:rect(1px, 1px, 1px, 1px);white-space:nowrap}
-/* CSS RESET */
+/* CSS RESET - Do not change */
 
-/* Your CSS Here */
+
+/* YOUR CSS */
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* TYPOGRAPHY */
+p
+{
+
+}
+h1
+{
+
+ }
+
+ h2
+{
+    
+ }
+
+ h3
+ {
+     
+  }
+
+/* PAGE LAYOUT */
+header
+{
+    grid-area: header;
+}
+
+#container
+{
+    grid-area: container;
+}
+
+footer
+{
+    grid-area: footer;
+    
+}
+
+
+
+
+/* MENU / NAV */
+
+#main-menu
+{
+
+}
+
+#main-menu > .menu-item
+{
+
+}
+
+#main-menu > .menu-item > a 
+{
+
+}
+
+#main-menu > .menu-item > a:hover, #main-menu > .menu-item > a:active
+{
+
+}
