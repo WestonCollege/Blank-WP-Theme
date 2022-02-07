@@ -1,8 +1,8 @@
-=== ucw-theme ===
+=== ucwTheme ===
 
 Contributors: tidythemes, bhadaway
 Donate link: https://calmestghost.com/donate
-Theme link: https://github.com/tidythemes/ucw-theme
+Theme link: https://github.com/tidythemes/ucwTheme
 Tags: accessibility-ready, one-column, two-columns, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
 Requires at least: 5.0
 Tested up to: 5.8
@@ -18,17 +18,17 @@ IMPORTANT — PLEASE READ: tidythemes.com/concept
 
 YOU MAY DELETE THIS FILE AND ANY OTHER FILE(S) BEFORE STARTING YOUR PROJECT
 
-ucw-theme is the definitive WordPress boilerplate starter theme. We've carefully constructed the most clean and minimalist theme possible for designers and developers to use as a base to build websites for clients or to build completely custom themes from scratch. Clean, simple, unstyled, semi-minified, unformatted, and valid code, SEO-friendly, jQuery-enabled, no programmer comments, standardized and as white label as possible, and most importantly, the CSS is reset for cross-browser-compatability and no intrusive visual CSS styles have been added whatsoever. A perfect skeleton theme. For support and suggestions, go to: https://github.com/tidythemes/ucw-theme/issues. Thank you.
+ucwTheme is the definitive WordPress boilerplate starter theme. We've carefully constructed the most clean and minimalist theme possible for designers and developers to use as a base to build websites for clients or to build completely custom themes from scratch. Clean, simple, unstyled, semi-minified, unformatted, and valid code, SEO-friendly, jQuery-enabled, no programmer comments, standardized and as white label as possible, and most importantly, the CSS is reset for cross-browser-compatability and no intrusive visual CSS styles have been added whatsoever. A perfect skeleton theme. For support and suggestions, go to: https://github.com/tidythemes/ucwTheme/issues. Thank you.
 
-If you're creating your own theme or client project, open up all files and do a "Find and Replace All in All Files" on the word "ucw-theme" with your own slug and prefix.
+If you're creating your own theme or client project, open up all files and do a "Find and Replace All in All Files" on the word "ucwTheme" with your own slug and prefix.
 
 === License ===
 
 In its unchanged and original state:
 
-ucw-theme WordPress Theme © 2011-2022 TidyThemes
-ucw-theme is distributed under the terms of the GNU GPL
+ucwTheme WordPress Theme © 2011-2022 TidyThemes
+ucwTheme is distributed under the terms of the GNU GPL
 
-The ucw-theme theme package and all files contained within are distributed under the terms of the GNU GPL v3 or Later (https://www.gnu.org/licenses/gpl.html).
+The ucwTheme theme package and all files contained within are distributed under the terms of the GNU GPL v3 or Later (https://www.gnu.org/licenses/gpl.html).
 
 Once you've significantly changed the theme to build your own unique project, either for yourself or for a client under a different theme name (as is encouraged), you're entirely welcome to copyright and license that project as you see fit.

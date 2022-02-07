@@ -2,10 +2,10 @@
 <main id="content" role="main">
 <article id="post-0" class="post not-found">
 <header class="header">
-<h1 class="entry-title" itemprop="name"><?php esc_html_e( 'Not Found', 'ucw-theme' ); ?></h1>
+<h1 class="entry-title" itemprop="name"><?php esc_html_e( 'Not Found', 'ucwTheme' ); ?></h1>
 </header>
 <div class="entry-content" itemprop="mainContentOfPage">
-<p><?php esc_html_e( 'Nothing found for the requested page. Try a search instead?', 'ucw-theme' ); ?></p>
+<p><?php esc_html_e( 'Nothing found for the requested page. Try a search instead?', 'ucwTheme' ); ?></p>
 <?php get_search_form(); ?>
 </div>
 </article>

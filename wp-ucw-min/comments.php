@@ -27,9 +27,9 @@ if ( !empty( $comments_by_type['pings'] ) ) :
 $ping_count = count( $comments_by_type['pings'] );
 ?>
 <section id="trackbacks-list" class="comments">
-<h2 class="comments-title"><?php echo '<span class="ping-count">' . esc_html( $ping_count ) . '</span> ' . esc_html( _nx( 'Trackback or Pingback', 'Trackbacks and Pingbacks', $ping_count, 'comments count', 'ucw-theme' ) ); ?></h2>
+<h2 class="comments-title"><?php echo '<span class="ping-count">' . esc_html( $ping_count ) . '</span> ' . esc_html( _nx( 'Trackback or Pingback', 'Trackbacks and Pingbacks', $ping_count, 'comments count', 'ucwTheme' ) ); ?></h2>
 <ul>
-<?php wp_list_comments( 'type=pings&callback=ucw-theme_custom_pings' ); ?>
+<?php wp_list_comments( 'type=pings&callback=ucwTheme_custom_pings' ); ?>
 </ul>
 </section>
 <?php
